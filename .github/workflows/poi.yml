@@ -5,7 +5,7 @@ env:
   registry: openhacknyh2tka8acr.azurecr.io
   repository: devopsoh/api-poi
   docker_path: apis/poi/web
-  staging_url: https://openhackxv61mxh2poi-staging.azurewebsites.net
+  staging_url: https://openhackxv61xh2poi-staging.azurewebsites.net
   prod_url: https://openhackxv61mxh2poi.azurewebsites.net
   resource_group: openhackxv61mxh2rg
   webapp_name: openhackxv61mxh2poi
