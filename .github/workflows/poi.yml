@@ -102,7 +102,7 @@ jobs:
         # Applies to Web App Containers only: Path of the Docker-Compose file. Should be a fully qualified path or relative to the default working directory. Required for multi-container scenario
         #configuration-file: # optional
         # Enter the start up command. For ex. dotnet run or dotnet run
-        #startup-command: # this is optional
+        #startup-command: # this is very optional
       
     - uses: actions/github-script@0.9.0
       if: failure()
